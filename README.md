@@ -1,6 +1,7 @@
 # CSReadingGroup
 Welcome to the Computer science in Mathematics reading group! 2023!!
 Language: Python
+This course will give a beginner knowledge of Python, explore various mathematics libraries, and discuss some light computer science theory.
 
 # 1. Course expectations:
 
